@@ -1,5 +1,5 @@
 # CommandLineFPS (Sharp!)
-A C# port of OneLoneCoder's C++ command line FPS demo. I tried to implement it line-by-line, as close as I could (sometimes by adding an abstraction or two).
+A C# (specifically, .NET Core, though it won't work on anything but Windows) port of OneLoneCoder's C++ command line FPS demo. I tried to implement it line-by-line, as close as I could (sometimes by adding an abstraction or two).
 
 ### Original Project
 All credit goes to
